@@ -34,7 +34,7 @@
 
 Estou disponibilizando a Solução zipada para que possam fazer a importação e verificar com mais clareza o que foi criado.
 Segue o link para quem tiver dúvida de como realizar a importação no Microsoft Dynamics 365 CE.
-[Lik para Importar Solução para o Microsoft Dynamcis 386 CE](https://learn.microsoft.com/pt-br/dynamics365/customerengagement/on-premises/customize/import-update-upgrade-solution?view=op-9-1)
+[Lik para Importar Solução para o Microsoft Dynamics 386 CE](https://learn.microsoft.com/pt-br/dynamics365/customerengagement/on-premises/customize/import-update-upgrade-solution?view=op-9-1)
 
    
 
