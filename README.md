@@ -1,6 +1,5 @@
-<h1 align="center">Bootcamp Dio Coding The Future Avanade - Programação C# com CRM Dynamics 2023.</h1>
-<h2 align="center"> Aplicativo do tipo Canvas(Tela) com a Power Platform. </h2>
-<p> O Projeto consiste na criação de um aplicativo do tipo Canvas (Tela). Será disponibilizado no MS Dynamics 365 CE, acessível no aplicativo “Treinamento”, a partir de um formulário já existente na entidade “Cursos”.</p>
+#Bootcamp Dio Coding The Future Avanade - Programação C# com CRM Dynamics - Aplicativo do tipo Canvas(Tela) com a Power Platform.
+<p> Projeto : Criar um aplicativo do tipo Canvas (Tela). Para ser disponibilizado no MS Dynamics 365 CE, acessível no aplicativo “Treinamento”.Disponibilizado partir de um formulário já existente na entidade “Cursos”.</p>
 
  Obs: O aplicativo criado no conceito Model Driven, utilizando como Datasource o contexto do formuário em execução. 
 
